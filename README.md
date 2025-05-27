@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Amir-Analytics101
-- 👀 I’m interested in Business Analytics, Econometrics, Data Science
-- 🌱 I’m currently learning R, Excel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Business Analytics, Data Science, Mathematics
+- 🌱 Experience in Python, SQL and R
+- 📫 How to reach me : www.linkedin.com/in/amir-selaa/)
 
 <!---
 Amir-Analytics101/Amir-Analytics101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
